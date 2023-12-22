@@ -7,6 +7,8 @@ int main ()
   cout<<"hola amigo";
   int n;
   cin >>n;
-  cout<< n;
+cout<<n;
+  cout<<"hello yantravision";
+
 }
 
