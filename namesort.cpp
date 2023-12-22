@@ -7,8 +7,12 @@ using namespace std;
 
 int main()
 {
+
   cout<<"hola amigo";
  
+
+  cout<<"Hello world \n how are you";
+
   int n;
   printf("enter number of names");
   scanf("%d",&n);
