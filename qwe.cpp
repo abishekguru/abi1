@@ -8,5 +8,9 @@ int main()
   
   cin>>a>>b>>c>>d;
   cout<<a<<b<<c<<d;
+  a = c+d;
+  b= c-d;
+  cout<<a<<b<<c<<d;
+  
 }
 
