@@ -12,3 +12,6 @@ file1.close()
 with open("sample.txt",'r') as file:
 	r = file.read()
 	print("\n\n\n",r)
+n = int(input("enter a number"))
+for i in range(n):
+	print(i)
